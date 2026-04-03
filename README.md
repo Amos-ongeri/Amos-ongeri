@@ -26,7 +26,7 @@ I don’t wait to “feel ready” — I build, break things, fix them, and repe
 ![My GitHub Stats](https://ghstats.dev/api/card?username=Amos-ongeri)
 ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amos-ongeri&theme=vue-dark&hide_border=true)
 ---
-[![visits](https://visitcount.itsvg.in/api?id=Amos-ongeri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Amos-ongeri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
