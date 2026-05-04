@@ -1,5 +1,5 @@
 # Hi there, I'm Amos  👋
-🌱 I’m currently learning jetpack compose, typescript, FastApi
+🌱 I’m currently learning jetpack compose, typescript, FastApi  
 👯 I’m looking to collaborate on web, desktop and mobile development projects
 # Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
