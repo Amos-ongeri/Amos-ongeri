@@ -1,5 +1,5 @@
 # Hi there, I'm Amos  👋
-i am looking to colaborate in web, desktop and mobile development projects
+👯 I’m looking to collaborate on web, desktop and mobile development projects
 # Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
