@@ -1,4 +1,5 @@
 # Hi there, I'm Amos  👋
+🔭 I’m currently working on full-stack web applications  
 🌱 I’m currently learning jetpack compose, typescript, FastApi  
 👯 I’m looking to collaborate on web, desktop and mobile development projects
 # Tech Stack:
