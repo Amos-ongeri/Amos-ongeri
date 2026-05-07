@@ -20,6 +20,8 @@
 ![Compose](https://img.shields.io/badge/Jetpack%20Compose-blue?style=for-the-badge&logo=android)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
 
 # GitHub Stats:
 ![My GitHub Stats](https://ghstats.dev/api/card?username=Amos-ongeri)
